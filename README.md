@@ -2,8 +2,9 @@
 
 1st line, introduction # greeting
 
-Use some methodology analysis for the 2nd step
+Use some methodology analysis for the 2nd step.. update
 
-Kindly find some good insight
+plese change this line #thank you!
 
 The last one is closing statement, thank you!
+
