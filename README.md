@@ -1,9 +1,9 @@
 # Tutorial6
 
-Line 1, introduction
+1st line, introduction # greeting
 
-Line 2, analysis
+2nd line, analysis
 
-Line 3, insight
-
-The last one is closing statement
+3rd line, insight
+Give some additional point which good
+The last one is closing statement, thank you!
