@@ -1,9 +1,9 @@
 # Tutorial6
 
-check this part, something wrong here.
+Need to double check here.
 
 Let this line as it is. thanks!
 
-Need to update this step.
+check this part, something wrong here.
 
 The last one is closing statement, don't forget to say thanks!
