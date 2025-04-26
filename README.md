@@ -1,9 +1,9 @@
 # Tutorial6
 
-Need to double check here.
+1st line, introduction # greeting
 
-Let this line as it is. thanks!
+Use some methodology analysis for the 2nd step
 
-check this part, something wrong here.
+Kindly find some good insight
 
-The last one is closing statement, don't forget to say thanks!
+The last one is closing statement, thank you!
