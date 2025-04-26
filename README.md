@@ -1,9 +1,9 @@
 # Tutorial6
 
-Line 1 
+Line 1, introduction
 
-Line 2
+Line 2, analysis
 
-Line 3
+Line 3, insight
 
-Line 4
+The last one is closing statement
