@@ -2,7 +2,7 @@
 
 1st line, introduction # greeting
 
-Use some methodology analysis for the 2nd step
+Use analytical methods to proceed to step 2
 
 Kindly find some good insight
 
