@@ -2,8 +2,8 @@
 
 1st line, introduction # greeting
 
-2nd line, analysis
+Use some methodology analysis for the 2nd step
 
-3rd line, insight
-Give some additional point which good
+Kindly find some good insight
+
 The last one is closing statement, thank you!
