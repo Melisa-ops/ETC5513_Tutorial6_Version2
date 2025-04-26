@@ -2,7 +2,7 @@
 
 1st line, introduction # greeting
 
-Use some methodology analysis for the 2nd step
+Apply step-by-step method for the second phase
 
 Kindly find some good insight
 
